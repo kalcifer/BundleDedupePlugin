@@ -1,0 +1,14 @@
+{
+  "name": "bundlededupeplugin",
+  "version": "1.0.0",
+  "description": "Dedupes methods in Bundles",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "pksjce",
+  "license": "ISC"
+}
